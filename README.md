@@ -3,4 +3,4 @@
 
 para ejecutar el sietmas debes poner :
 
-'''npm install react´´´´
+‘’’npm install react’’’
